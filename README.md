@@ -1,7 +1,7 @@
 # diySpeaker
 Contains the ESP32 and DSP programs used in my DIY Speaker project which I've built for my matura project.
 
-[English](https://github.com/Hepi34/diySpeaker/edit/main/README.md) | [German](https://github.com/Hepi34/diySpeaker/blob/main/README_GER.md)
+[English](https://github.com/Hepi34/diySpeaker/blob/main/README.md) | [German](https://github.com/Hepi34/diySpeaker/blob/main/README_GER.md)
 
 * [Main ESP Code](#Main-ESP-Code)
 * [Second ESP Code](#Second-ESP-Code)
