@@ -1,7 +1,7 @@
 # diySpeaker
 Enthält die ESP32- und DSP-Programmdateien, die ich in meinem selbst gebauten Lautsprecher verwendet habe, welchen ich als Maturaarbeit gebaut habe.
 
-[Englisch](https://github.com/Hepi34/diySpeaker/edit/main/README.md) | [Deutsch](https://github.com/Hepi34/diySpeaker/blob/main/README_GER.md)
+[Englisch](https://github.com/Hepi34/diySpeaker/blob/main/README.md) | [Deutsch](https://github.com/Hepi34/diySpeaker/blob/main/README_GER.md)
 
 * [Haupt-ESP-Code](#Haupt-ESP-Code)
 * [Zweit-ESP-Code](#Zweit-ESP-Code)
